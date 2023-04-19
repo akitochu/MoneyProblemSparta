@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj": {}
+    "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj": {
+    "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj",
+        "projectUniqueName": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj",
         "projectName": "MoneyProblem",
-        "projectPath": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj",
-        "packagesPath": "C:\\Users\\akito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblem\\obj\\",
+        "projectPath": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj",
+        "packagesPath": "C:\\Users\\azzi1\\.nuget\\packages\\",
+        "outputPath": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\akito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\azzi1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

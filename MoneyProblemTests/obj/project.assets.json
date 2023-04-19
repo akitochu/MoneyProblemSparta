@@ -973,6 +973,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "MoneyProblem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MoneyProblem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoneyProblem.dll": {}
+        }
       }
     }
   },
@@ -1186,7 +1196,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -2870,7 +2880,7 @@
       ]
     },
     "System.Reflection.Metadata/1.6.0": {
-      "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
+      "sha512": "I4aWCii7N1bmn43vviRfJQYW6UAco1G/CcjJouvgGdb/sr2BRTSnddhaPMg2oxu9VHFn8T1z3dTLq0pna8zmtA==",
       "type": "package",
       "path": "system.reflection.metadata/1.6.0",
       "files": [
@@ -3946,11 +3956,17 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "MoneyProblem/1.0.0": {
+      "type": "project",
+      "path": "../MoneyProblem/MoneyProblem.csproj",
+      "msbuildProject": "../MoneyProblem/MoneyProblem.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.3.2",
+      "MoneyProblem >= 1.0.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
       "NUnit3TestAdapter >= 4.3.0",
@@ -3958,19 +3974,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\akito\\.nuget\\packages\\": {}
+    "C:\\Users\\azzi1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblemTests\\MoneyProblemTests.csproj",
+      "projectUniqueName": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblemTests\\MoneyProblemTests.csproj",
       "projectName": "MoneyProblemTests",
-      "projectPath": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblemTests\\MoneyProblemTests.csproj",
-      "packagesPath": "C:\\Users\\akito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akito\\OneDrive\\Documents\\Sparta\\PairProgrammingMoneyProblemWithAaron\\MoneyProblemSparta\\MoneyProblemTests\\obj\\",
+      "projectPath": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblemTests\\MoneyProblemTests.csproj",
+      "packagesPath": "C:\\Users\\azzi1\\.nuget\\packages\\",
+      "outputPath": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblemTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\akito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\azzi1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3978,12 +4001,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj": {
+              "projectPath": "D:\\azzi1\\Documents\\Official\\SpartaGlobal\\Academy\\C#\\PairProgramming\\MoneyProblemSparta\\MoneyProblem\\MoneyProblem.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

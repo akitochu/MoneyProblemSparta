@@ -1,0 +1,15 @@
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.csproj.AssemblyReference.cache
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.AssemblyInfoInputs.cache
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.AssemblyInfo.cs
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.csproj.CoreCompileInputs.cache
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\bin\Debug\net6.0\MoneyProblem.exe
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\bin\Debug\net6.0\MoneyProblem.deps.json
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\bin\Debug\net6.0\MoneyProblem.runtimeconfig.json
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\bin\Debug\net6.0\MoneyProblem.dll
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\bin\Debug\net6.0\MoneyProblem.pdb
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.dll
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\refint\MoneyProblem.dll
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.pdb
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\MoneyProblem.genruntimeconfig.cache
+D:\azzi1\Documents\Official\SpartaGlobal\Academy\C#\PairProgramming\MoneyProblemSparta\MoneyProblem\obj\Debug\net6.0\ref\MoneyProblem.dll
